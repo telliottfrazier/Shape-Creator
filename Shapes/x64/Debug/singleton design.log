@@ -1,0 +1,17 @@
+﻿  picture.cpp
+m:\year 2\semester 2\comp 345 - oop\shapes\picture.cpp(34): warning C4018: '<': signed/unsigned mismatch
+m:\year 2\semester 2\comp 345 - oop\shapes\picture.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\picture.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Shape.cpp
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(161): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+m:\year 2\semester 2\comp 345 - oop\shapes\shape.cpp(208): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4081: insufficient disk space; linking nonincrementally
+  singleton design.vcxproj -> M:\Year 2\Semester 2\Comp 345 - OOP\Shapes\x64\Debug\singleton design.exe
+  singleton design.vcxproj -> M:\Year 2\Semester 2\Comp 345 - OOP\Shapes\x64\Debug\singleton design.pdb (Partial PDB)
